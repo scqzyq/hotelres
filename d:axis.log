@@ -1,0 +1,120 @@
+2020-03-18 18:14:39,079 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:14:54,047 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:15:26,932 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:15:38,296 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:20:33,026 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:20:40,470 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:23:10,666 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:25:40,476 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:28:41,369 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:30:05,468 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:32:58,723 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:33:54,112 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:34:19,448 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:43:48,563 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 18:43:48,662 99     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 18:43:48,675 112    [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 18:43:48,699 136    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 18:45:35,956 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 18:45:36,031 75     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 18:45:36,039 83     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 18:45:36,063 107    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 18:57:38,227 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 18:58:26,011 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 19:00:31,775 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/data.csv
+2020-03-18 19:01:02,287 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:01:02,376 89     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:01:02,385 98     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:01:02,411 124    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:10:00,061 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:10:00,117 56     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:10:00,133 72     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:10:00,161 100    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:29:26,396 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:29:26,476 80     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:29:26,482 86     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:29:26,506 110    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:29:57,883 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:29:57,954 71     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:29:57,962 79     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:29:57,987 104    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:30:13,667 1      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:30:13,740 74     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:30:13,748 82     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:30:13,766 100    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:30:24,379 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:30:24,436 57     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:30:24,455 76     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:30:24,471 92     [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:36:59,544 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:36:59,633 89     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:36:59,642 98     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:36:59,659 115    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:37:21,019 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:37:21,094 75     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:37:21,101 82     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:37:21,113 94     [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:38:30,360 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:38:30,415 55     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:38:30,425 65     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:38:30,447 87     [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:39:12,911 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:39:12,967 56     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:39:12,975 64     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:39:12,997 86     [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:39:28,657 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:39:28,709 52     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:39:28,716 59     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:39:28,732 75     [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:39:46,385 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:39:46,437 52     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:39:46,444 59     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:39:46,461 76     [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:40:16,865 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:40:16,942 77     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:40:16,951 86     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:40:16,967 102    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:40:28,581 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:40:28,642 61     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:40:28,649 68     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:40:28,665 84     [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:40:36,473 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:40:36,551 78     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:40:36,568 95     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:40:36,589 116    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:40:45,589 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:40:45,657 68     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:40:45,664 75     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:40:45,687 98     [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:41:17,566 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:41:17,619 53     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:41:17,627 61     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:41:17,652 86     [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:41:28,362 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:41:28,413 51     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:41:28,426 64     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:41:28,459 97     [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:41:53,763 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:41:53,830 67     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:41:53,839 76     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:41:53,856 93     [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:51:20,809 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:51:20,890 81     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:51:20,898 89     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:51:20,918 109    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:52:41,005 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:52:41,088 83     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:52:41,097 92     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:52:41,113 108    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-18 19:53:33,737 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-18 19:53:33,802 65     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-18 19:53:33,817 80     [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-18 19:53:33,841 104    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-19 14:17:45,554 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-19 14:17:45,667 113    [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-19 14:17:45,682 128    [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-19 14:17:45,726 172    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users
+2020-03-23 17:35:48,307 0      [           main] INFO  .impl.model.file.FileDataModel  - Creating FileDataModel for file /home/scqzy/Desktop/hotelres/target/classes/movie.data
+2020-03-23 17:35:48,399 92     [           main] INFO  .impl.model.file.FileDataModel  - Reading file info...
+2020-03-23 17:35:48,414 107    [           main] INFO  .impl.model.file.FileDataModel  - Read lines: 24
+2020-03-23 17:35:48,442 135    [           main] INFO  te.impl.model.GenericDataModel  - Processed 5 users

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hotelreservation@cdb-2i9k2eti.bj.tencentcdb.com" uuid="40cccd8f-d256-4bcf-ba63-9dfac12c7a0d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://cdb-2i9k2eti.bj.tencentcdb.com:10036/hotelreservation</jdbc-url>
+    </data-source>
+  </component>
+</project>
